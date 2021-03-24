@@ -8,7 +8,7 @@
       <p><b>地址：南京市玄武区孝陵卫200号南京理工大学</b></p>
     </td>
     <td width="25%">
-      <img src="‪证件照2.jpg" width="100%">      
+      <img src="‪selfie.jpg" width="100%">      
     </td>
   </tr>
 </table>
