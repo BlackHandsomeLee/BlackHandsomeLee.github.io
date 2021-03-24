@@ -1,3 +1,18 @@
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>李万斌</h1>
+      <p><b>本科生</b></p>
+      <p><b>南京理工大学经济管理学院</b></p>
+      <p><b>邮箱：2803992305@qq.com</b></p>
+      <p><b>地址：南京市玄武区孝陵卫200号南京理工大学</b></p>
+    </td>
+    <td width="25%">
+      <img src="‪C:/Users/86139/Desktop/selfie.jpg" width="100%">      
+    </td>
+  </tr>
+</table>
+
 ## 个人信息
 ### 姓名：李万斌
 ### 性别：男
