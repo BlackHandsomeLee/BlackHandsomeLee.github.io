@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## 个人信息
+### 姓名：李万斌
+### 性别：男
+### 民族：纳西
+### 学校：南京理工大学
+### 学历：本科
+### 邮箱：2803992305@qq.com
 
-You can use the [editor on GitHub](https://github.com/BlackHandsomeLee/BlackHandsomeLee.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## 最新消息
+### 个人感受：有时候一路向前，有时候一路犯懵
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 专业
+### 信息管理与信息系统
 
-### Markdown
+## 荣誉奖励
+### ·奖学金
+### ·演技比赛
+### ·篮球一夏比赛亚军
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 项目研究
+### 暂无
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BlackHandsomeLee/BlackHandsomeLee.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## 爱好
+### 篮球，足球，羽毛球，乒乓球，象棋，hiphop，电影，游泳
