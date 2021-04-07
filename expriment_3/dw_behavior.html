@@ -9,11 +9,15 @@ function MM_effectShake(targetElement)
 {
 	Spry.Effect.DoShake(targetElement);
 }
+function MM_effectGrowShrink(targetElement, duration, from, to, toggle, referHeight, growFromCenter)
+{
+	Spry.Effect.DoGrow(targetElement, {duration: duration, from: from, to: to, toggle: toggle, referHeight: referHeight, growCenter: growFromCenter});
+}
 </script>
 </head>
 
 <body>
-<div onclick="MM_effectShake(this)">哈哈哈哈哈哈哈哈哈哈哈哈哈</div>
+<div onclick="MM_effectGrowShrink(this, 1000, '100%', '0%', false, false, true)">哈哈哈哈哈哈哈哈哈哈哈哈哈</div>
 </body>
 </html>
 
