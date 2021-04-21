@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<script src="https://cdn.staticfile.org/jquery/1.10.2/jquery.min.js">
+</script>
+<script> 
+$(document).ready(function(){
+  $("button").click(function(){
+  var div=$("div");
+	for(i=0;i<100;i++)  
+	{div.animate({left:'400px'},"slow");
+  div.animate({top:'400px'},"slow");
+  div.animate({left:'0px'},"slow");
+  div.animate({top:'100px'},"slow");}
+  });
+});
+</script> 
+</head>
+ 
+<body>
+<button>开始动画</button>
+<p>转圈圈</p>
+<div style="background:#98bf21;height:100px;width:100px;position:absolute;">
+</div>
+
+</body>
+</html>
